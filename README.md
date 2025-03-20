@@ -24,41 +24,27 @@ Você deve criar um relatório no Power BI utilizando os dados fornecidos nos ar
 ### :white_check_mark:  Step 3: Importar os dados para o PowerBI;
 ### :white_check_mark:  Step 4: O que podemos analizar?
 
-#### Decisões:
+#### Perguntas a serem respondidas:
 
-Na 1ª Aba:
-• Análise de faturamento (e comparação ano anterior)
-• Lucro (e comparação ano anterior)
-• Qtd vendida (e comparação ano anterior)
-• Margem
-• Vendas por Tipo de Loja (Física e Online)
-• Faturamento por Produto
-• Receita, lucro e Vendas por continente/país
+1- Desempenho dos Funcionários:
+Qual porcentagem de funcionários contribui diretamente para o fechamento de contratos? Como esse dado pode ser usado para identificar oportunidades de treinamento ou realocação de equipe?
+Quais funcionários têm os maiores gastos salariais em relação aos contratos fechados? Esse investimento está gerando retorno proporcional?
 
-Na 2ª Aba:
-• Abertura de vendas por marca, categoria e produto
-• Análise de melhor produto e melhor loja
-• Comparativo produto vs mês anterior
+2- Análise dos Contratos:
+Qual cliente gera o maior faturamento anual? Há oportunidades de expandir os serviços para esse cliente?
+Existe alguma área de atuação dos funcionários que está gerando menos contratos? Quais ações podem ser tomadas para melhorar o desempenho dessa área?
 
-Na 3ª Aba:
-• Faturamento perdido
-• Qtd devolvida
-• % Faturamento perdido
-• % Devoluções
-• % Devoluções mensal
-• % Devoluções por região
-• % Devoluções por fornecedor
-• Filtrar por categoria
+3- Custo Operacional:
+Qual é o custo total em salários por área? Essa distribuição é proporcional ao faturamento gerado por cada área?
+Há algum setor com altos gastos salariais que não está trazendo resultados significativos em contratos fechados? Como esses recursos podem ser melhor alocados?
 
 ## :bulb: Conclusão
 
-O dashboard de vendas foi estruturado em três páginas principais, fornecendo uma visão abrangente e detalhada sobre o desempenho comercial da empresa. Na primeira página, concentramos a análise nos principais indicadores financeiros, como faturamento, lucro e quantidade vendida, comparando-os com os resultados do ano anterior. Também exploramos a margem operacional, as vendas segmentadas por tipo de loja (física e online) e o faturamento por produto, além de oferecer uma visão consolidada da receita, lucro e vendas por continente e país.
+Após a análise completa no Power BI, é possível observar a eficiência dos funcionários, o desempenho por área e o impacto financeiro dos contratos em andamento. O uso de medidas como SUMX, fórmulas como CALCULATE e gráficos específicos permite não apenas organizar os dados de forma clara, mas também extrair insights estratégicos para a empresa.
 
-Na segunda página, aprofundamos a análise, destacando a distribuição de vendas por marca, categoria e produto. Foi realizada uma identificação dos produtos e lojas com melhor desempenho, assim como um comparativo de vendas de produtos em relação ao mês anterior, permitindo insights sobre tendências e sazonalidades.
+Além disso, destacar os contratos mais lucrativos e os custos operacionais, como gastos salariais, fornece uma visão detalhada para otimizar os recursos e aumentar a rentabilidade. Por fim, o relatório final serve como base para decisões empresariais que podem impulsionar a sustentabilidade e crescimento do negócio.
 
-Por fim, na terceira página, focamos em métricas relacionadas a devoluções e faturamento perdido. Os dados incluem a quantidade devolvida, os percentuais de faturamento perdido e devoluções, análises mensais e segmentações regionais e por fornecedor. Além disso, a funcionalidade de filtragem por categoria permite uma análise personalizada e detalhada dos dados.
-
-Clique [aqui](https://app.powerbi.com/view?r=eyJrIjoiYmU1NWY4YmItMDI5OC00NGFkLWI2ZTktMDg4OGYxNDI1ZTYwIiwidCI6IjMzYTc4NzVmLTMzNmMtNDgzMi04ZDAzLWQ5ODBiOWJlYjdiYiJ9) para ver o Dashboard funcionando! 
+Clique [aqui](https://app.powerbi.com/view?r=eyJrIjoiY2YxMjEyZTAtNDRmMS00MzI4LWExZjktZDc5MGRhMmQyNmE4IiwidCI6IjMzYTc4NzVmLTMzNmMtNDgzMi04ZDAzLWQ5ODBiOWJlYjdiYiJ9) para ver o Dashboard funcionando! 
 
 ## :battery: Stacks Employed
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
